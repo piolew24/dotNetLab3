@@ -1,0 +1,14 @@
+C:\Users\piotr\RiderProjects\dotNetlab3\dotNetlab3\bin\Debug\net8.0\dotNetlab3.exe
+C:\Users\piotr\RiderProjects\dotNetlab3\dotNetlab3\bin\Debug\net8.0\dotNetlab3.deps.json
+C:\Users\piotr\RiderProjects\dotNetlab3\dotNetlab3\bin\Debug\net8.0\dotNetlab3.runtimeconfig.json
+C:\Users\piotr\RiderProjects\dotNetlab3\dotNetlab3\bin\Debug\net8.0\dotNetlab3.dll
+C:\Users\piotr\RiderProjects\dotNetlab3\dotNetlab3\bin\Debug\net8.0\dotNetlab3.pdb
+C:\Users\piotr\RiderProjects\dotNetlab3\dotNetlab3\obj\Debug\net8.0\dotNetlab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piotr\RiderProjects\dotNetlab3\dotNetlab3\obj\Debug\net8.0\dotNetlab3.AssemblyInfoInputs.cache
+C:\Users\piotr\RiderProjects\dotNetlab3\dotNetlab3\obj\Debug\net8.0\dotNetlab3.AssemblyInfo.cs
+C:\Users\piotr\RiderProjects\dotNetlab3\dotNetlab3\obj\Debug\net8.0\dotNetlab3.csproj.CoreCompileInputs.cache
+C:\Users\piotr\RiderProjects\dotNetlab3\dotNetlab3\obj\Debug\net8.0\dotNetlab3.dll
+C:\Users\piotr\RiderProjects\dotNetlab3\dotNetlab3\obj\Debug\net8.0\refint\dotNetlab3.dll
+C:\Users\piotr\RiderProjects\dotNetlab3\dotNetlab3\obj\Debug\net8.0\dotNetlab3.pdb
+C:\Users\piotr\RiderProjects\dotNetlab3\dotNetlab3\obj\Debug\net8.0\dotNetlab3.genruntimeconfig.cache
+C:\Users\piotr\RiderProjects\dotNetlab3\dotNetlab3\obj\Debug\net8.0\ref\dotNetlab3.dll
